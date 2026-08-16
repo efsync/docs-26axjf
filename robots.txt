@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-aj6241.planetjp.online/sitemap.xml
